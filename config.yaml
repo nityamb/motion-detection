@@ -1,0 +1,7 @@
+detection:
+  # Lower number means more sensitive to pixel changes
+  threshold: 10
+  # More dilation iterations means attempt to connect smaller, close together contours into bigger ones
+  dilation-iterations: 3
+  # Larger number means only larger objects will be motion detected
+  contour-threshold: 1000

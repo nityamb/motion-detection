@@ -1,0 +1,5 @@
+**/__pycache__
+
+# Test detection files
+*.mp4
+*.gif
